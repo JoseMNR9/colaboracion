@@ -1,1 +1,5 @@
 Buenas tardes,
+No seas cutre tio. Un que tal o algo. 
+for(int i=0;i<matriz.lenght;i++){
+    no hagas nada. 
+}
